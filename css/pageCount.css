@@ -1,0 +1,13 @@
+.element {
+  display: none;
+}
+.element.active {
+  display: block;
+}
+
+#pagination {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 150%;
+}
+
